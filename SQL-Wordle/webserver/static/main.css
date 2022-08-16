@@ -1,0 +1,95 @@
+.accent{
+    background-color: rgb(45, 108, 131);
+}
+.background{
+    background-color: rgb(33, 78, 94);
+}
+.white{
+    color: white;
+}
+
+.logout_button{
+    position: absolute;
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 100px;
+}
+.big {
+    font-weight: bold;
+    font-size: 50px;
+}
+.padding{
+    margin-bottom: 100px;
+}
+.pad{
+    padding-bottom: 60px;
+}
+.bigtext{
+    font-size: 30px;
+}
+.border{
+    border-radius: 10px;
+    border-color: aliceblue;
+    border-width: 2px;
+    background-color:rgb(40, 95, 116);
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+.bigpad{
+    margin-bottom: 100px;
+}
+.letterborderR{
+    border-color: aliceblue;
+    border-width: 2px;
+    background-color:red;
+    font-weight: 30px;
+    padding: 20px;
+}
+.letterborderG{
+    border-color: aliceblue;
+    border-width: 2px;
+    background-color:green;
+    font-weight: 30px;
+    padding: 20px;
+}
+.letterborderY{
+    border-color: aliceblue;
+    border-width: 2px;
+    background-color:yellow;
+    font-weight: 30px;
+    padding: 20px;
+}
+.padmore{
+    width: 100%;
+}
+ul.no-bullets{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    
+}
+.space{
+    padding-left: 50px;
+    padding-right: 400px;
+}
+
+.fullwidth__gradient {
+    width: 100%;
+    padding-left: 100px;
+    border: 30px solid transparent;
+    text-transform: uppercase;
+    font-family: 'Open Sans', 'Source Sans Pro', Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
